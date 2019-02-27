@@ -1,0 +1,21 @@
+{
+  "name": "olifantframework/olifant-contracts",
+  "description": "Olifant\Contracts",
+  "keywords": ["php","http","framework","app","container"],
+  "homepage": "https://github.com/olifantframework/olifant-contracts",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "undercloud",
+      "email": "lodashes@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+   "autoload": {
+      "psr-4": {
+         "Olifant\\Contracts\\": "src/Olifant/Contracts/"
+      }
+   }
+}
