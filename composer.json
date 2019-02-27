@@ -1,6 +1,6 @@
 {
   "name": "olifantframework/olifant-contracts",
-  "description": "Olifant\Contracts",
+  "description": "Olifant\\Contracts",
   "keywords": ["php","http","framework","app","container"],
   "homepage": "https://github.com/olifantframework/olifant-contracts",
   "license": "MIT",
